@@ -5,7 +5,11 @@ body {
     color: #ffffff;
 }
 
-h1, h2, h3, h4, p {
+h1,
+h2,
+h3,
+h4,
+p {
     text-shadow: 0 0 1px black;
 }
 
@@ -70,13 +74,11 @@ h1, h2, h3, h4, p {
     background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9wNngwdWJyZ3ZseXh6bmdjd2xiM3hqZWdxM205ZmMwb2R3M2pmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xJIIRPC23yZG/giphy.gif");
 }
 
-#gift-img-2 {
-    
-}
+#gift-img-2 {}
 
 #gift-img-3:hover {
     background-image: url("images/genius.gif");
-    
+
 }
 
 #gift-img-badass:hover {
@@ -98,21 +100,21 @@ a {
     color: white;
 }
 
-#lastpic:hover {
+#flower-butterfly-img:hover {
     background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFuNTcydnp2YWN5NmQ4MzBjOGo1emYyMmN6Mmp4NXFuMHgyanRnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a39kqrdmasEaQ/giphy.gif")
 }
 
-#lastpic {
-     background-image: url("images/gift-cover.jpg");
+#flower-butterfly-img {
+    background-image: url("images/gift-cover.jpg");
     margin: 40px auto;
-    
+
 }
 
-.gift-img-larger {
-    
+/* .gift-img-larger {
+
     width: 500px;
     height: 500px;
-}
+} */
 
 /* 
 Add the footer paragraph according to the design. 
